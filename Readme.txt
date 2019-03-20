@@ -1,4 +1,4 @@
-
+Download Sounds Through this link: https://drive.google.com/drive/folders/1zvSylcUSGtciBIZ6_ZipQZ9RB-juVqkU?usp=sharing
 -----IMPORTANT-------
 Remove all provided sound from sounds folder and paste in the same directory where KARL.cpp file is saved....
 
